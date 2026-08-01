@@ -1,36 +1,106 @@
 <div align="center">
 
-# Hey 👋 What's Up?
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=190&section=header&text=Sami%20Tareq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" alt="Sami Tareq profile banner" />
 
-## I'm Sami Tareq, a Computer Science student and developer
+<a href="https://github.com/sami124-coder?tab=followers"><img src="https://img.shields.io/github/followers/sami124-coder?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117" alt="GitHub followers" /></a>
+<a href="https://github.com/sami124-coder?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-10-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Public repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=sami124-coder&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt" width="100%" alt="Profile banner" />
+</div>
 
-### Languages
+## 👨‍💻 About Me
 
-<img src="https://skillicons.dev/icons?i=js,ts,c,html,css,python&perline=8" alt="Programming languages" />
+```javascript
+const sami = {
+  role: "Computer Science Student",
+  focus: ["Full-Stack Development", "Artificial Intelligence"],
+  currentlyBuilding: "Useful, user-focused software",
+  learning: ["TypeScript", "Modern Web Architecture", "AI Systems"],
+  goal: "Turn ideas into reliable products"
+};
+```
 
-### Frameworks & Libraries
+- 🔭 Building web applications and experimenting with AI-powered products
+- 🌱 Growing my skills through hands-on projects and continuous learning
+- 🤝 Open to collaboration on useful open-source and student projects
+- ⚡ I enjoy turning difficult problems into simple experiences
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&perline=8" alt="Frameworks and libraries" />
+## 🧰 Tech Stack
 
-### Databases
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&perline=8" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=js,ts,c,python,html,css,react,nodejs,express,vite,mysql,mongodb,postgres,sqlite,git,github,vscode,figma,postman&perline=10" alt="Sami's technology stack" />
 
-### Tools
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=8" alt="Development tools" />
+## 🚀 Featured Projects
 
-### GitHub Activity
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sami124-coder&show_icons=true&theme=github_dark&hide_border=false" height="165" alt="Sami's GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sami124-coder&layout=compact&theme=github_dark&hide_border=false" height="165" alt="Sami's most used languages" />
+### [AI Restaurant](https://github.com/sami124-coder/AI-restaurant-)
 
-<img src="https://streak-stats.demolab.com?user=sami124-coder&theme=github-dark-blue&hide_border=false" alt="Sami's GitHub contribution streak" />
+An AI-focused restaurant project built with JavaScript.
 
-### Connect With Me
+`JavaScript` `AI` `Web App`
 
-<a href="https://github.com/sami124-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</td>
+<td width="50%" valign="top">
+
+### [AI-ssss](https://github.com/sami124-coder/AI-ssss)
+
+A TypeScript project exploring modern AI application development.
+
+`TypeScript` `AI` `Software`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Speak Up English Course](https://github.com/sami124-coder/speak-up-english-course)
+
+A JavaScript learning experience designed around English practice.
+
+`JavaScript` `Education` `Frontend`
+
+</td>
+<td width="50%" valign="top">
+
+### [Babybed](https://github.com/sami124-coder/babybed)
+
+A C-based project developed from an open-source foundation.
+
+`C` `Systems` `Open Source`
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=sami124-coder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="Sami's GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami124-coder&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Sami's most used languages" />
+
+<img width="72%" src="https://streak-stats.demolab.com?user=sami124-coder&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" alt="Sami's GitHub contribution streak" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sami124-coder&bg_color=0d1117&color=8b949e&line=58a6ff&point=7c3aed&area=true&hide_border=true" alt="Sami's contribution activity graph" />
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/sami124-coder"><img src="https://img.shields.io/badge/GitHub-sami124--coder-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sami on GitHub" /></a>
+
+<br><br>
+
+<i>“Keep learning, keep building, and let the work speak.”</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:58A6FF&height=100&section=footer" alt="Profile footer" />
 
 </div>
