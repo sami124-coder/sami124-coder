@@ -82,9 +82,6 @@ A C-based project developed from an open-source foundation.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=sami124-coder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github" alt="Sami's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami124-coder&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Sami's most used languages" />
-
 <img width="72%" src="https://streak-stats.demolab.com?user=sami124-coder&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" alt="Sami's GitHub contribution streak" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sami124-coder&bg_color=0d1117&color=8b949e&line=58a6ff&point=7c3aed&area=true&hide_border=true" alt="Sami's contribution activity graph" />
