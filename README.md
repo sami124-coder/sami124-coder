@@ -1,132 +1,167 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=190&section=header&text=Sami%20Tareq&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=18" alt="Sami Tareq profile banner" />
+<img src="https://github.com/sami124-coder.png?size=180" width="150" alt="Sami Tareq" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Developer;AI+Explorer;Turning+Ideas+Into+Software" alt="Animated typing introduction" />
+Sami Tareq
 
-<a href="https://github.com/sami124-coder?tab=followers"><img src="https://img.shields.io/github/followers/sami124-coder?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117" alt="GitHub followers" /></a>
-<a href="https://github.com/sami124-coder?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-10-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Public repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=sami124-coder&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+Full-Stack Developer · AI Enthusiast · Game Developer
+
+Building useful digital products, immersive game experiences, and modern web platforms.
+
+<p>
+  <a href="https://github.com/sami124-coder">
+    <img src="https://img.shields.io/badge/GitHub-sami124--coder-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/sami124-coder?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20my%20projects-0A66C2?style=for-the-badge&logo=github" alt="Projects" />
+  </a>
+</p>
 
 </div>
 
-## 👨‍💻 About Me
+<div align="center">
 
-```console
-$ whoami
-Sami Tareq — Computer Science student and software developer
 
-$ cat mission.txt
-Build useful products, explore intelligent systems, and keep improving.
 
-$ ls interests/
-full-stack-development  artificial-intelligence  open-source  product-design
-```
 
-- 🔭 Building web applications and experimenting with AI-powered products
-- 🌱 Growing my skills through hands-on projects and continuous learning
-- 🤝 Open to collaboration on useful open-source and student projects
-- ⚡ I enjoy turning difficult problems into simple experiences
 
-## 🎯 Current Mission
+</div>
+
+About me
+
+I am Sami Tareq, a developer interested in creating practical software with clean interfaces and strong user experiences. My work combines full-stack development, artificial intelligence, 3D/game development, and cloud-based applications.
 
 <table>
-<tr>
-<td align="center" width="33%"><b>🔨 Building</b><br><br>Useful AI-powered web experiences</td>
-<td align="center" width="33%"><b>📚 Learning</b><br><br>TypeScript, architecture, and AI systems</td>
-<td align="center" width="33%"><b>🤝 Looking For</b><br><br>Creative collaborations and open source</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+
+What I build
+
+Full-stack web applications
+
+AI-powered solutions
+
+3D game assets and interactive experiences
+
+What I value
+
+Simple, useful user experiences
+
+Maintainable and scalable code
+
+Continuous learning
+
 </table>
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,c,python,html,css,react,nodejs,express,vite,mysql,mongodb,postgres,sqlite,git,github,vscode,figma,postman&perline=10" alt="Sami's technology stack" />
-
-</div>
-
-## 🚀 Featured Projects
+Featured projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="33%" valign="top">
 
-### [AI Restaurant](https://github.com/sami124-coder/AI-restaurant-)
+🌴 Oasis Kingdoms
 
-An AI-focused restaurant project built with JavaScript.
+An open-world game project with 3D characters, Blender assets, and interactive game mechanics.
 
-`JavaScript` `AI` `Web App`
-
-</td>
-<td width="50%" valign="top">
-
-### [AI-ssss](https://github.com/sami124-coder/AI-ssss)
-
-A TypeScript project exploring modern AI application development.
-
-`TypeScript` `AI` `Software`
+<a href="https://github.com/sami124-coder/oasis-kingdoms">View repository →</a>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### [Speak Up English Course](https://github.com/sami124-coder/speak-up-english-course)
+🛏️ BabyBed
 
-A JavaScript learning experience designed around English practice.
+A modern web platform focused on a clear interface and a structured application workflow.
 
-`JavaScript` `Education` `Frontend`
+<a href="https://github.com/sami124-coder/babybed">View repository →</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### [Babybed](https://github.com/sami124-coder/babybed)
+🍽️ Restrova
 
-A C-based project developed from an open-source foundation.
+A restaurant-management platform designed to bring useful digital tools together in one place.
 
-`C` `Systems` `Open Source`
+<a href="https://github.com/Restrova/restrova-platform">View repository →</a>
 
 </td>
-</tr>
+
+  </tr>
 </table>
 
-## 🧭 Developer Journey
+Tech stack
 
-```text
-Curiosity        Fundamentals         Real Projects          What's Next
-   ●────────────────●────────────────────●────────────────────────▶
- Started coding   CS + problem solving   Web and AI products   Better systems
-```
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data & cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=icloud&logoColor=white" alt="Cloud" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI & game development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+      <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Activity
+GitHub overview
 
 <div align="center">
 
-<img width="72%" src="https://streak-stats.demolab.com?user=sami124-coder&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" alt="Sami's GitHub contribution streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sami124-coder&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=0A66C2&icon_color=0A66C2" alt="Sami's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami124-coder&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2" alt="Sami's most used languages" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sami124-coder&bg_color=0d1117&color=8b949e&line=58a6ff&point=7c3aed&area=true&hide_border=true" alt="Sami's contribution activity graph" />
+<br />
 
-### 🐍 My Contributions, in Motion
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sami124-coder/sami124-coder/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sami124-coder/sami124-coder/output/github-contribution-grid-snake.svg" />
-  <img width="95%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/sami124-coder/sami124-coder/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sami124-coder&hide_border=true&theme=transparent&ring=0A66C2&fire=FF8A00&currStreakLabel=0A66C2" alt="Sami's GitHub streak" />
 
 </div>
 
-## 🤝 Let's Connect
+Current direction
+
+Web platforms        ████████████████████  Building
+AI applications      ███████████████░░░░░  Exploring
+Game development     ███████████████░░░░░  Creating
+Open-source work     ████████████░░░░░░░░  Growing
+
+Let's connect
+
+The best way to follow my work is through GitHub. I am always interested in meaningful projects, creative ideas, and opportunities to build useful technology.
 
 <div align="center">
 
-<a href="https://github.com/sami124-coder"><img src="https://img.shields.io/badge/GitHub-sami124--coder-181717?style=for-the-badge&logo=github&logoColor=white" alt="Sami on GitHub" /></a>
+<a href="https://github.com/sami124-coder">
+  <img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-181717?style=for-the-badge&logo=github" alt="Follow Sami on GitHub" />
+</a>
 
-<br><br>
+<br /><br />
 
-<i>“Keep learning, keep building, and let the work speak.”</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:58A6FF&height=100&section=footer" alt="Profile footer" />
+<sub>Designed to be simple, memorable, and focused on the work.</sub>
 
 </div>
